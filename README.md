@@ -5,9 +5,11 @@
 
   <p align="center">
     <a href="http://standardjs.com/">
-      <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg">
+      <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg"/>
     </a>
-    [![Build Status](https://secure.travis-ci.org/halfeld/ncatossi.png?branch=master)](http://travis-ci.org/halfeld/ncatossi)
+    <a href="travis-ci.org">
+      <img src="https://secure.travis-ci.org/halfeld/ncatossi.png?branch=master" alt="build status"/>
+    </a>
   </p>
 </p>
 
