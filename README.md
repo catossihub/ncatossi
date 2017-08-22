@@ -1,8 +1,17 @@
-## nCatossi
+<p align="center">
+  <img src="icon128.png" width="60" />
+  <h3 align="center">nCatossi</h3>
+  <p align="center">A power of memes inside your browser.</p>
 
-[![Build Status](https://secure.travis-ci.org/halfeld/ncatossi.png?branch=master)](http://travis-ci.org/halfeld/ncatossi)
+  <p align="center">
+    <a href="http://standardjs.com/">
+      <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg">
+    </a>
+    [![Build Status](https://secure.travis-ci.org/halfeld/ncatossi.png?branch=master)](http://travis-ci.org/halfeld/ncatossi)
+  </p>
+</p>
 
-A power of memes inside your browser.
+---
 
 ### To-do
 

@@ -73,11 +73,20 @@ var handlerImages = function () {
 
 var handlerParagraphersAndTitles = function () {
   var texts = document.querySelectorAll('p')
-  var titles = document.querySelectorAll('h1')
+  var links = document.querySelectorAll('a')
+  var spans = document.querySelectorAll('span')
+  var li = document.querySelectorAll('li')
+  var h1 = document.querySelectorAll('h1')
+  var h2 = document.querySelectorAll('h2')
 
-  Array.prototype.concat.call(texts, titles)
+  Array.prototype
+    .concat
+    .call(texts, h1)
+    .concat(h2)
+    .concat(li)
+    .concat(links)
+    .concat(spans)
 
-  console.log(texts)
   for (var i = 0, l = texts.length; i < l; i++) {
     var randomNumber = Math.floor(Math.random() * l)
     var text = texts[i].textContent
