@@ -4,6 +4,10 @@
 
 A power of memes inside your browser.
 
+### To-do
+
++ [ ] Add tests `Karma/Jasmine/Phantom`
+
 ### Contribute
 
 ``` sh
