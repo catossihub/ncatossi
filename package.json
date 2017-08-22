@@ -1,0 +1,33 @@
+{
+  "name": "ncatossi",
+  "version": "0.0.0",
+  "description": "A power of memes inside your browser.",
+  "main": "dist/main.js",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Igor Luiz",
+    "email": "igor@devstacks.com.br"
+  },
+  "repository": {
+    "url": "https://github.com/catossihub/ncatossi",
+    "type": "git"
+  },
+  "license": "GPLv3",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-conventional-changelog": "^6.1.0",
+    "grunt-groc": "^0.7.1",
+    "grunt-standard": "2.0.0",
+    "grunt-umd": "^2.3.0",
+    "load-grunt-config": "^0.19.2",
+    "time-grunt": "^1.4.0"
+  }
+}

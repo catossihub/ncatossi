@@ -1,0 +1,23 @@
+{
+  "name": "ncatossi",
+  "version": "0.0.0",
+  "description": "A power of memes inside your browser.",
+  "main": "dist/main.js",
+  "author": {
+    "name": "Igor Luiz",
+    "email": "igor@devstacks.com.br"
+  },
+  "repository": {
+    "url": "https://github.com/catossihub/ncatossi",
+    "type": "git"
+  },
+  "license": "GPLv3",
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
