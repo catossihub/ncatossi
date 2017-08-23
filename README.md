@@ -15,6 +15,10 @@
 
 ---
 
+### DEMO
+
+<img style="width: 100%; height: auto" src="screenshots/catossi-demo.png" alt="demo" />
+
 ### To-do
 
 + [ ] Add tests `Karma/Jasmine/Phantom`
