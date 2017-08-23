@@ -21,7 +21,8 @@
 
 ### To-do
 
-+ [ ] Add tests `Karma/Jasmine/Phantom`
++ [ ] Add tests `Karma/Jasmine/Phantom`.
++ [ ] Change images from `background-image` as well.
 
 ### Contribute
 
